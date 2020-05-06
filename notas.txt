@@ -6,7 +6,10 @@
 2) CSS profesional - 02 Sintaxis y formas de aplicar CSS
 https://www.youtube.com/watch?v=doSVXP6asLE&list=PLH_tVOsiVGzl6mMQLinpCmn9e1zcymCeH&index=2
 
+011-CSS-profesional-11-Especificidad
+https://www.youtube.com/watch?v=Sy72_bGLtT4&list=PLH_tVOsiVGzl6mMQLinpCmn9e1zcymCeH&index=11
+
 ---------------------------------------------------------------------------------------------
 Notas 
 
-Modulo 2 para revisión  
+MOdulo 11 revizar 
